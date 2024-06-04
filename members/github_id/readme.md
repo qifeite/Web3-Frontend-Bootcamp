@@ -6,7 +6,7 @@
 
 * Wechat ID: qifeite857
 
-* Openbuild Userna me: G123-漆菲特
+* Openbuild Username: G123-漆菲特
 
 (首次如果没有，学习完毕钱包在填写)
 
